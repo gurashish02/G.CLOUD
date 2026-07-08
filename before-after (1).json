@@ -1,0 +1,9 @@
+{
+  "pairs": [
+    {
+      "label": "Demo pair — replace with a real before/after from your own edit",
+      "before": "images/will.jpg",
+      "after": "images/will.jpg"
+    }
+  ]
+}
