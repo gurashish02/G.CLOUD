@@ -1,0 +1,12 @@
+{
+  "pieces": [
+    { "title": "Will.", "category": "Manipulation", "year": "2026", "image": "images/will.jpg", "featured": true },
+    { "title": "Gentle Monster", "category": "Typography / Collage", "year": "2026", "image": "images/gentle-monster.jpg", "featured": true },
+    { "title": "Centered", "category": "Portrait Study", "year": "2025", "image": "images/centered.jpg", "featured": true },
+    { "title": "Second Skin", "category": "Manipulation", "year": "2025", "image": "", "featured": false },
+    { "title": "Undo History", "category": "Restoration", "year": "2025", "image": "", "featured": false },
+    { "title": "Negative Space", "category": "Composite", "year": "2025", "image": "", "featured": false },
+    { "title": "Untitled Study 07", "category": "Retouching", "year": "2025", "image": "", "featured": false },
+    { "title": "Panorama Reconstruction", "category": "Compositing", "year": "2024", "image": "", "featured": false }
+  ]
+}

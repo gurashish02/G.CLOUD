@@ -1,0 +1,13 @@
+{
+  "name": "Gurashish Kaur",
+  "tagline": "Photo Editing & Digital Art — New Delhi, India",
+  "headline": "Every image<br>is negotiable.",
+  "heroImage": "images/hero-bg.jpg",
+  "heroText": "I retouch, composite, and rebuild photographs in Photoshop — pulling apart light, skin, and color until an image says exactly what it needs to.",
+  "bio1": "I'm Gurashish Kaur, a photo editor and digital artist working primarily in Photoshop. My work sits between repair and invention — sometimes it's a portrait that needs its light rebuilt, sometimes it's a scene that never existed until I put its pieces together.",
+  "bio2": "I care about images holding up under a close look: skin that still looks like skin, shadows that agree with each other, seams that don't announce themselves.",
+  "skills": ["Portrait Retouching", "Photo Manipulation", "Compositing", "Color Grading", "Restoration"],
+  "email": "hello@example.com",
+  "instagram": "@gurashishkaur",
+  "behance": "behance.net/gurashishkaur"
+}
